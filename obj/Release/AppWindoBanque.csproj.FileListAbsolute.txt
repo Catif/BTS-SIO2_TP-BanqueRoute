@@ -10,3 +10,16 @@ C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.cspro
 C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.csproj.CopyComplete
 C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\WindowsFormsAppTEST.exe
 C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\WindowsFormsAppTEST.pdb
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\bin\Release\WindowsFormsAppTEST.exe.config
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\bin\Release\WindowsFormsAppTEST.exe
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\bin\Release\WindowsFormsAppTEST.pdb
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\bin\Release\libBanque.dll
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\bin\Release\libBanque.pdb
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\AppWindoBanque.csproj.AssemblyReference.cache
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\AppWindoBanque.FrmBanque.resources
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\WindowsFormsAppTEST.Properties.Resources.resources
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\AppWindoBanque.csproj.GenerateResource.cache
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\AppWindoBanque.csproj.CoreCompileInputs.cache
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\AppWindoBanque.csproj.CopyComplete
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\WindowsFormsAppTEST.exe
+C:\Users\Bradl\Documents\GitHub\SIO2_TP-BanqueRoute\obj\Release\WindowsFormsAppTEST.pdb
