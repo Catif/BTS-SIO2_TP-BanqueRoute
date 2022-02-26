@@ -1,0 +1,12 @@
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\bin\Release\WindowsFormsAppTEST.exe.config
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\bin\Release\WindowsFormsAppTEST.exe
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\bin\Release\WindowsFormsAppTEST.pdb
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\bin\Release\libBanque.dll
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\bin\Release\libBanque.pdb
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.FrmBanque.resources
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\WindowsFormsAppTEST.Properties.Resources.resources
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.csproj.GenerateResource.cache
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.csproj.CoreCompileInputs.cache
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\AppWindoBanque.csproj.CopyComplete
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\WindowsFormsAppTEST.exe
+C:\Users\Bradl\Desktop\temp\WindowsFormsAppTEST\obj\Release\WindowsFormsAppTEST.pdb
