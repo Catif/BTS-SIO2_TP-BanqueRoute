@@ -6,7 +6,7 @@ Possibilité de créer des comptes, faire des versements, des retraits ou des vi
 
 
 # Lancement de l'application
-Pour lancer l'application, il vous suffit d'avoir **libBanque** et **AppWindoBanque.exe** qui se trouve dans **./bin/release/**.
+Pour lancer l'application, il vous suffit d'avoir **libBanque.dll** et **AppWindoBanque.exe** qui se trouve dans **./bin/release/**.
 
 ## IMPORTANT
 **Il faut que les deux fichiers soit dans le même répertoire lors du lancement de AppWindoBanque.exe pour le programme fonctionne.**
